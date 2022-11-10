@@ -5,7 +5,7 @@
 
 ## Hi, I’m Octavio 😉
 
-### Software developer at [MakingDevs](http://makingdevs.com) and Kueski [Kueski](https://kueski.com/)
+### Software developer at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
 
 _Passionate about programming and technology 👨‍💻_
 
