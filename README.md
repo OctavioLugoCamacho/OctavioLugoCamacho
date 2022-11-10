@@ -2,7 +2,7 @@
 
 ### Software developer at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
 
-<center><div><img alt="Gif" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div></center>
+<div align="center"><img alt="Gif" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div>
 
 _Passionate about programming and technology 👨‍💻_
 
