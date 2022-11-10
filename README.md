@@ -15,9 +15,9 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/octaviolugo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
   <!-- Facebook -->
-  <a href="https://www.facebook.com/octavio.lugo.camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/octavio.lugo.camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="40" height="40"/></a>
   <!-- Intagram -->
-  <a href="https://www.instagram.com/octavio_lugo_camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/octavio_lugo_camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
 </p>
 
 
