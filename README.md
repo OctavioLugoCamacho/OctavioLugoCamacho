@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Octavio Lugo 💻</h1>
 
-### Software developer at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
-
 <div align="center"><img alt="Gif" width=100% height=75% src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div>
 
 - 👨‍💻 I’m currently working at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
@@ -10,15 +8,14 @@
 
 - 📫 Reach me at: **octaviolugocamacho@hotmail.com**
 
-- 📄 Know about my experiences in [My Personal Blog)](https://octaviolugocamacho.github.io/)
-
-- ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
+- 📄 Know about my experiences in [My Personal Blog](https://octaviolugocamacho.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/octaviolugo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
-  
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/octavio.lugo.camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/></a>
 </p>
 
 
