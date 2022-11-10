@@ -4,14 +4,24 @@
 
 <div align="center"><img alt="Gif" width=100% height=75% src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div>
 
-_Passionate about programming and technology 👨‍💻_
+- 👨‍💻 I’m currently working at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
 
----
+- 📚 I’m currently learning **Ruby and Groovy**
+
+- 📫 Reach me at: **octaviolugocamacho@hotmail.com**
+
+- 📄 Know about my experiences in [My Personal Blog)](https://octaviolugocamacho.github.io/)
+
+- ⚡ Fun fact **When in highschool, I thought math was the worst and wanted to get away from it**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/octaviolugo/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
+  
+</p>
 
 
-+ ## Check my blog [here](https://octaviolugocamacho.github.io/)
-
-+ ## I'm learning Ruby and Groovy 💻
 
 <p align="center"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
