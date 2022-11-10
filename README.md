@@ -1,11 +1,8 @@
-
-<h1 align="center">Octavio Lugo</h1>
-
----
-
-## Hi, I’m Octavio 😉
+<h1 align="center">Hi, I'm Octavio Lugo 💻</h1>
 
 ### Software developer at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
+
+<center><div><img alt="Gif" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></div></center>
 
 _Passionate about programming and technology 👨‍💻_
 
