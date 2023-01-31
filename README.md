@@ -11,7 +11,8 @@
 - 📄 Know about my experiences in [My Personal Blog](https://octaviolugocamacho.github.io/)
 
 <h3 align="left">Tech Stack:</h3>
-<p align="left" style="background-color:#BBBBBB;">
+<body style="background-color:#BBBBBB;">
+<p align="left">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <!-- Groovy -->
@@ -35,6 +36,7 @@
   <!-- Spring -->
   <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
+</body>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
