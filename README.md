@@ -48,6 +48,10 @@
   <a href="https://www.instagram.com/octavio_lugo_camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioLugoCamacho&show_icons=true&locale=en&layout=compact" alt="OctavioLugoCamacho" /></p>
+<h3 align="left">Github Stats:</h3>
+![](https://github-readme-stats.vercel.app/api?username=OctavioLugoCamacho&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OctavioLugoCamacho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioLugoCamacho&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OctavioLugoCamacho&show_icons=true&locale=en" alt="OctavioLugoCamacho" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=OctavioLugoCamacho&icon=0&color=0)](https://visitcount.itsvg.in)
