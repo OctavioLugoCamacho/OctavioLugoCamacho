@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Octavio Lugo 💻</h1>
 
-<div align="center"><img alt="Gif" width=100% height=75% src="https://miro.medium.com/max/720/1*x3J4P7FNjLZ1UWLEktkzcw.gif"></div>
+<div align="center"><img alt="Gif" width=100% height=75% src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475wvhcc5perlhgza3whjdhfy3jxrbt1ovrdv7b0dw&rid=giphy.gif&ct=g"></div>
 
 - 👨‍💻 I’m currently working at [MakingDevs](http://makingdevs.com) and [Kueski](https://kueski.com/)
 
