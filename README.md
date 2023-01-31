@@ -45,3 +45,5 @@
   <!-- Instagram -->
   <a href="https://www.instagram.com/octavio_lugo_camacho/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OctavioLugoCamacho&show_icons=true&locale=en&layout=compact" alt="ghector6" /></p>
