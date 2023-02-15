@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OctavioLugoCamacho?color=EAECEE&logo=mark-github&style=for-the-badge"/></a>
-  <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
+  <a href="https://github.com/OctavioLugoCamacho?tab=followers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/OctavioLugoCamacho?color=EAECEE&logo=mark-github&style=for-the-badge"/></a>
 </p>
 
