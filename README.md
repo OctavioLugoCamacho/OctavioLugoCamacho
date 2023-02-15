@@ -8,6 +8,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/octavio_lugo_camacho"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DeveloperGhoul"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/2335/2335289.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/octaviolugo" alt="Linkedin" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.tiktok.com/@octaviolugocamacho"><img width="32px" alt="Tiktok" title="Tiktok" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png"></a>
@@ -18,9 +20,9 @@
 <!-- Github section -->
 <p align="center">
   <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OctavioLugoCamacho?color=%23E1AD0E&labelColor=C79600&logo=star&style=for-the-badge"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OctavioLugoCamacho?color=EAECEE&logo=mark-github&style=for-the-badge"/></a>
   <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/OctavioLugoCamacho?color=%23E1AD0E&labelColor=C79600&logo=person-add&style=for-the-badge"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/OctavioLugoCamacho?color=EAECEE&logo=mark-github&style=for-the-badge"/></a>
 </p>
 
 ---
