@@ -13,7 +13,14 @@
   <a href="https://www.tiktok.com/@octaviolugocamacho"><img width="32px" alt="Tiktok" title="Tiktok" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/DmY7heYT"><img width="32px" alt="Ko-fi" title="Discord" src="https://cdn-icons-png.flaticon.com/512/2335/2335279.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;</a>
+</p>
+
+<!-- Github section -->
+<p align="center">
+  <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OctavioLugoCamacho?color=%23E1AD0E&labelColor=C79600&logo=star&style=for-the-badge"/></a>
+  <a href="https://github.com/OctavioLugoCamacho?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/OctavioLugoCamacho?color=%23E1AD0E&labelColor=C79600&logo=person-add&style=for-the-badge"/></a>
 </p>
 
 ---
@@ -74,7 +81,7 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="VSC" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
 
@@ -85,7 +92,6 @@
 
   <p>
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OctavioLugoCamacho's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OctavioLugoCamacho&theme=dark&hide_border=false"/>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
