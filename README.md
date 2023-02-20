@@ -106,7 +106,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OctavioLugoCamacho's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OctavioLugoCamacho&bg_color=151515&color=9E9E9E&line=FB8C00&point=FFFFFF&hide_border=false" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OctavioLugoCamacho's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OctavioLugoCamacho&bg_color=151515&color=FFFFFF&line=FB8C00&point=FFFFFF&hide_border=false" /></a>
 </details>
 
 <p align="center">
