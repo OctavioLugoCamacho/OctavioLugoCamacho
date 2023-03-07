@@ -30,8 +30,8 @@
 <div align="center"><img alt="Gif" width=100% height=75% src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></div>
 
   <h2>💁 About Me</h2>
-  <p>👨‍💻 I’m currently working at <a href="http://makingdevs.com">MakingDevs</a> and <a href="https://kueski.com">Kueski</a></p>
-  <p>📚 I’m currently learning <a href="https://www.ruby-lang.org">Ruby</a> and <a href="https://groovy-lang.org/">Groovy</a></p>
+  <p>👨‍💻 I’m currently working at <a href="http://makingdevs.com">MakingDevs</a></p>
+  <p>📚 I’m currently learning <a href="https://www.ruby-lang.org">Ruby</a>, <a href="https://groovy-lang.org/">Groovy</a> and <a href="https://elixir-lang.org/">Elixir</a></p>
   <p>📫 Reach me at: <a href="mailto:octaviolugocamacho@hotmail.com">octaviolugocamacho@hotmail.com</a></p>
   <p>📄 Know about my experiences in <a href="https://octaviolugocamacho.github.io">My Personal Blog</a></p>
 
