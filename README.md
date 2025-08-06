@@ -12,9 +12,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/octaviolugo" alt="Linkedin" title="Linkedin"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.tiktok.com/@octaviolugocamacho"><img width="32px" alt="Tiktok" title="Tiktok" src="https://cdn-icons-png.flaticon.com/512/3046/3046119.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/DmY7heYT"><img width="32px" alt="Ko-fi" title="Discord" src="https://cdn-icons-png.flaticon.com/512/2335/2335279.png"/></a>
 </p>
 
 <!-- Github section -->
